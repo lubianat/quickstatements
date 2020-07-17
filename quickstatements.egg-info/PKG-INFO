@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: quickstatements
+Version: 0.0.2
+Summary: Facilitates the generation of Quickstatements V1 commands in Python.
+Home-page: https://github.com/lubianat/quickstatements
+Author: Tiago Lubiana
+Author-email: tiago.lubiana.alves@usp.br
+License: UNKNOWN
+Description: # quickstatements
+        
+        A python module for reconciling datasets to quickstatements / Wikidata format. 
+        
+        It is still in an inception/pre-prototyping stage. For more info, check the [Wiki](/Wiki).
+        
+        ## Protoype branch
+        
+        The tracer branch is dedicated to a few prototypes to play around before actually having a workable version of the package. 
+        
+        The idea is to document on the repository Wiki alongside the development of the prototypes.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
