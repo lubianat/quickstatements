@@ -1,1 +1,5 @@
+# requirements.txt
+
+# List required packages in this file, one per line.
+numpy
 pytest==5.4.1
